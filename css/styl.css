@@ -103,6 +103,7 @@ span {
     background-size: cover;
     height: 1080px;
     margin-top: -20vh;
+
 }
 
 .kpk {
@@ -645,7 +646,7 @@ input {
 
 /* korzin end */
 
-.fa-solid .fa-bars {
+.n {
     display: none;
 }
 
@@ -696,7 +697,7 @@ input {
         display: none;
     }
 
-    .fa-solid .fa-bars {
+    .n {
         display: block;
     }
 
